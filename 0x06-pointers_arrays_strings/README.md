@@ -1,1 +1,1 @@
-read me will be updated later
+0x06. C - More pointers, arrays and strings
